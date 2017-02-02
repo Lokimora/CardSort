@@ -1,0 +1,8 @@
+C:\Projects\CardSort\Tests\bin\Debug\Tests.dll
+C:\Projects\CardSort\Tests\bin\Debug\Tests.pdb
+C:\Projects\CardSort\Tests\bin\Debug\Domain.dll
+C:\Projects\CardSort\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\CardSort\Tests\bin\Debug\Domain.pdb
+C:\Projects\CardSort\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Projects\CardSort\Tests\obj\Debug\Tests.dll
+C:\Projects\CardSort\Tests\obj\Debug\Tests.pdb
